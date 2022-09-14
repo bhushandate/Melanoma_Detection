@@ -1,5 +1,9 @@
 # Melanoma Detection
 
+### Project Done by:
+Name: Bhushan Date
+
+
 ## Problem Statement
 In this assignment, you will build a multiclass classification model using a custom convolutional neural network in tensorflow. 
 
